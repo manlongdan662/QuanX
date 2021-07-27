@@ -17,7 +17,7 @@ jobs:
         uses: repo-sync/github-sync@v2
         with:
          # 替换成需要同步的用户名，仓库名，分支名。
-          source_repo: "https://github.com/jiulan/jd_v4.git"
+          source_repo: "https://github.com/Oreomeow/QuanX.git"
           source_branch: "master"
           destination_branch: "master"
           sync_tags: "true"
